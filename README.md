@@ -17,7 +17,15 @@
 - android.com  
 - chrome.com  
 - drive.google.com  
-- maps.google.com  
+- maps.google.com
+- google.org  
+- google.co.in *(India-specific)*  
+- google.com.au *(Australia-specific)*  
+- gmail.cn *(China-specific)*  
+- pixel.google.com  
+- stadia.google  
+- workspace.google.com
+- abc.xyz
 
 ---
 
@@ -34,7 +42,13 @@
 - twitch.tv  
 - audible.com  
 - kindle.com  
-
+- amazon.it *(Italy-specific)*  
+- amazon.es *(Spain-specific)*  
+- amazon.in *(India-specific)*  
+- alexa.amazon.com  
+- aws.amazon.cn *(China-specific)*  
+- audible.co.uk  
+- kindle.cn *(China-specific)*  
 ---
 
 ## 3. Facebook (Meta)
@@ -48,7 +62,12 @@
 - facebook.net  
 - fb.me  
 - fb.watch  
-
+- facebook.com.au  
+- instagram.co.uk  
+- whatsapp.net  
+- messenger.fb.com  
+- oculusvr.com  
+- horizon.fb.com 
 ---
 
 ## 4. Microsoft
@@ -64,7 +83,13 @@
 - onedrive.com  
 - azure.com  
 - windows.com  
-
+- microsoft.co.jp  
+- microsoftstore.com  
+- xboxlive.com  
+- msn.com  
+- bing.cn *(China-specific)*  
+- skype.net
+  
 ---
 
 ## 5. Apple
@@ -77,7 +102,13 @@
 - apple.cn *(China-specific)*  
 - developer.apple.com  
 - support.apple.com  
-
+- apple.co.jp  
+- apple.com.cn *(China-specific)*  
+- applemusic.cn *(China-specific)*  
+- aapl.com *(less public / ticker-related)*  
+- iphone.com  
+- tv.apple.com
+  
 ---
 
 ## 6. Tencent (腾讯)
@@ -92,6 +123,12 @@
 - qqmusic.com  
 - qqvideo.com  
 - qqapp.com  
+- qq.com.hk  
+- weixin.com  
+- tencent.co.uk  
+- v.qq.com *(Tencent video service)*  
+- tencentcloud.com  
+- game.qq.com  
 
 ---
 
@@ -106,6 +143,11 @@
 - alibaba.cn  
 - alimama.com  
 - alibabacloud.com  
+- taobao.cn  
+- aliexpress.ru *(Russia-specific)*  
+- alibaba.org  
+- alilazy.com *(marketing-related)*  
+- alibabacloud.cn *(China-specific)* 
 
 ---
 
@@ -118,7 +160,11 @@
 - baidustatic.com  
 - baidubce.com  
 - baiducloud.com  
-- baiduboxapp.com  
+- baiduboxapp.com
+- baidu.jp  
+- baidu.us  
+- hao123.com *(owned by Baidu)*  
+- i.baidu.com  
 
 ---
 
@@ -129,7 +175,12 @@
 - nflximg.com  
 - nflxso.net  
 - nflxvideo.net  
-
+- netflix.co.uk  
+- netflix.jp  
+- fast.com *(owned by Netflix)*  
+- nflx.com *(premium/stock-related)*  
+- netflixparty.com *(older joint-watch service)*
+  
 ---
 
 ## 10. Twitter (X)
@@ -138,6 +189,11 @@
 - t.co  
 - twimg.com  
 - tweetdeck.com  
+- twitter.co.jp  
+- x.co  
+- periscope.tv *(formerly owned)*  
+- tweetdeck.twitter.com  
+- developer.twitter.com  
 
 ---
 
@@ -148,7 +204,12 @@
 - yahoo.de  
 - yahoo.fr  
 - flickr.com  
-- tumblr.com  
+- tumblr.com
+- yahoo.ca  
+- yahoo.com.au  
+- yahoo.com.sg  
+- yahooanswers.com  
+- yahoofinance.com  
 
 ---
 
@@ -158,7 +219,12 @@
 - sina.cn  
 - sinaapp.com  
 - sinajs.cn  
-- sinaimg.cn  
+- sinaimg.cn
+- weibo.cn  
+- sina.cn *(various mirrors)*  
+- weibo.cn.com *(typo/redirect)*  
+- sina.com.hk  
+- sina.cn.com  
 
 ---
 
@@ -169,6 +235,11 @@
 - jd.id *(Indonesia-specific)*  
 - jdpay.com  
 - jdcloud.com  
+- jd.com.cn  
+- jd.co.id *(Indonesia)*  
+- jdsports.com *(different company, but similar domain family)*  
+- jdpay.cn  
+- jd.pk *(Pakistan-specific)*  
 
 ---
 
@@ -181,6 +252,11 @@
 - tiktokcdn.com  
 - tiktokglobalshop.com  
 - tiktokads.com  
+- lark.com  
+- feishu.cn  
+- capsupply.bytedance.com  
+- byteplus.com  
+- tiktok.co.uk  
 
 ---
 
@@ -191,7 +267,12 @@
 - yuewen.com  
 - youdao.com  
 - kaola.com  
-- cloudmusic.com  
+- cloudmusic.com
+- 163.net  
+- 126.net  
+- youdao.cn  
+- dingxiangyuan.com *(health-service)*  
+- neteasegames.com  
 
 ---
 
@@ -201,7 +282,12 @@
 - sogou.com  
 - chinaren.com  
 - 17173.com  
-- focus.cn  
+- focus.cn
+- sogou.cn  
+- focus.com.cn  
+- sohu.tv  
+- chinaren.com.cn  
+- 17173.hk  
 
 ---
 
@@ -211,6 +297,11 @@
 - meituan.net  
 - meituan.cn  
 - kuaishou.com  
+- meituan.hk  
+- dianping.hk  
+- meituan.delivery  
+- meituan.international  
+- meituanfood.com  
 
 ---
 
@@ -219,6 +310,11 @@
 - didi.cn  
 - didichuxing.com  
 - xiaojukeji.com  
+- didiglobal.cn  
+- didi.hk  
+- didiautos.com  
+- dididev.com  
+- didistatic.com  
 
 ---
 
@@ -227,18 +323,26 @@
 - yangkeduo.com  
 - pddpic.com  
 - pddpic.net  
+- pinduoduo.cn  
+- pdd.com.cn  
+- pddtech.com  
+- pddglobal.com  
+- yangkeduo.cn  
 
 ---
 
-## 20. ByteDance (duplicate entry)
-- bytedance.com  
-- toutiao.com  
-- douyin.com  
-- tiktok.com  
-- tiktokv.com  
-- tiktokcdn.com  
-- tiktokglobalshop.com  
-- tiktokads.com  
+
+## 20. Cloudflare
+- cloudflare.com
+- cloudflare.net
+- cloudflare.org
+- cloudflare.dev
+- workers.cloudflare.com
+- dash.cloudflare.com
+- developers.cloudflare.com
+- web3.cloudflare.com
+- support.cloudflare.com
+- community.cloudflare.com
 
 ---
 
@@ -247,6 +351,11 @@
 - zoom.com  
 - zoom.cn  
 - zoomgov.com  
+- zoom.com.cn  
+- zoom.net  
+- zoom.us.cn  
+- zoomapps.com  
+- zoomvideo.com 
 
 ---
 
@@ -255,7 +364,12 @@
 - ubereats.com  
 - uber.cn *(China-specific)*  
 - uber.net  
-- uber.org  
+- uber.org
+- uber.co.jp  
+- uber.com.au  
+- uberdrivers.com  
+- uberpartners.com  
+- rides.uber.com  
 
 ---
 
@@ -264,7 +378,12 @@
 - airbnb.cn *(China-specific)*  
 - airbnb.co.uk  
 - airbnb.fr  
-- airbnb.de  
+- airbnb.de
+- airbnb.com.au  
+- airbnb.co.nz  
+- airbnb.cn.com  
+- airbnbhomes.com  
+- airbnbexperiences.com  
 
 ---
 
@@ -273,15 +392,26 @@
 - redd.it  
 - redditstatic.com  
 - redditmedia.com  
+- reddit.com.au  
+- redditinc.com  
+- redditgifts.com  
+- redd.it.au  
+- redditblog.com  
 
 ---
 
-## 25. TikTok (ByteDance)
-- tiktok.com  
-- tiktokv.com  
-- tiktokcdn.com  
-- tiktokglobalshop.com  
-- tiktokads.com  
+
+## 25. Cisco Systems
+- cisco.com
+- cisco.cn *(China-specific)*
+- cisco.co.uk
+- cisco.de
+- cisco.fr
+- support.cisco.com
+- developer.cisco.com
+- learningnetwork.cisco.com
+- blog.cisco.com
+- marketplace.cisco.com
 
 ---
 
@@ -290,6 +420,11 @@
 - snap.com  
 - snapkit.com  
 - snapads.com  
+- snapchat.co.uk  
+- snap.chat  
+- snapads.tv  
+- snapexperiences.com  
+- bitmojiapp.com  
 
 ---
 
@@ -306,6 +441,11 @@
 - myshopify.com  
 - shopifycdn.com  
 - shopifycloud.com  
+- shopify.ca  
+- shopifysdk.com  
+- shopifyplus.com  
+- shopifycommunity.com  
+- shopifydevelopers.com 
 
 ---
 
@@ -314,6 +454,11 @@
 - paypalobjects.com  
 - paypal.me  
 - paypal.cn *(China-specific)*  
+- paypal.co.uk  
+- paypal.com.au  
+- paypalobjects.com.cn  
+- paypaldealer.com  
+- paypal-apis.com 
 
 ---
 
@@ -322,6 +467,11 @@
 - spotifycdn.com  
 - spotifyforartists.com  
 - spotifyjobs.com  
+- spotify.co.uk  
+- spotify.fm  
+- spotifycharts.com  
+- spotifyforbrands.com  
+- spotifycommunity.com 
 
 ---
 
